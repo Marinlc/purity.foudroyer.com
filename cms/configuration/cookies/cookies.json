@@ -4,7 +4,9 @@
   "to": {
     "label": "Read our cookie policy",
     "url": "/policy",
-    "type": "follow"
+    "type": "follow",
+    "rel": "obfuscated",
+    "target": "blank"
   },
   "button": "Accept"
 }
