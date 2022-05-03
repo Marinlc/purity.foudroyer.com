@@ -1,9 +1,9 @@
 {
-  "name": "Foudroyer Purity",
+  "name": "Meilleurlivrephoto.fr",
   "short_name": "Purity",
   "start_url": "/?utm_source=web_app_manifest",
   "background_color": "#9c3e3e",
   "theme_color": "#865050",
   "display": "standalone",
-  "icon": "../assets/logo.svg"
+  "icon": "../assets/photo-album.png"
 }
