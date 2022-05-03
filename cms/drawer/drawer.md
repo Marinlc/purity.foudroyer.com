@@ -1,7 +1,7 @@
 ---
 type: drawer
 logo:
-  src: ../assets/logo.svg
+  src: ../assets/photo-album.png
   alt: logo
 tabs:
   - type: follow
